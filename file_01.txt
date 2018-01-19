@@ -4,3 +4,4 @@ Testing again some stuff
 Now I should hear the coin sound after commit.
 Now you should hear the coin sound after commit.
 Say something Bro.
+Test.
